@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá, seja bem-vindo ao meu projeto1 </h1>
+<h1 align = "center"> Olá, seja bem-vindo ao meu projeto! </h1>
 <br>
 <h2 align = "center"> Este é um projeto simples, uma To Do List feita com React e TS, porém, feito para por em prática meus conhecimentos com ambas tecnologias. </h2>
 <br>
@@ -12,7 +12,7 @@
 <img src="public/IMG/Capturar.PNG" width="500px">
 </div>
 <br>
-<h3 align = "center"> Exemplo da lista de tarefa</h3>
+<h3 align = "center"> Exemplo de lista de tarefa</h3>
 <br>
 <div align="center">
 <img src="public/IMG/Capturar 2.PNG" width = "500px">
